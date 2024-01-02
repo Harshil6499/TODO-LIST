@@ -1,0 +1,6 @@
+framework module Pods_MyTodoProject {
+  umbrella header "Pods-MyTodoProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
